@@ -1,7 +1,7 @@
 <h1> Art Deco </h1> 
 
 <br>
-<p align="center"> <img width="300" height="400" align="center" alt="ArtDeco-Processing" src="https://github.com/user-attachments/assets/bae42a7a-f365-433f-83d9-32fd18152c72" /> </p>
+<p align="center"> <img width="500" height="650" alt="image" src="https://github.com/user-attachments/assets/991f9d96-89f0-47ea-9227-4cfdf95bacd9" /> </p>
 <br>
 
-<h3> Contexto Histórico </h3>
+O Art Deco foi um movimento originado no início do século XX bastante significativo que impactou os campos da Arte, Design e Arquitetura. Através de linhas retas e geometrização, o foco desse estilo era promover sofisticação e representar o luxo. O movimento recebeu influências das ideias da Art Nouveau, Cubismo e Futurismo.
